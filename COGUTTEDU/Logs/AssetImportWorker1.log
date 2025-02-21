@@ -906,3 +906,55 @@ Memory consumption went from 174.0 MB to 165.4 MB.
 Total: 12.468800 ms (FindLiveObjects: 0.830300 ms CreateObjectMapping: 0.681600 ms MarkObjects: 6.061700 ms  DeleteObjects: 4.893400 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 3636.628446 seconds.
+  path: Assets/SpaceZeta_Spotlight/Assets/SpotlightStructure1.fbx
+  artifactKey: Guid(7f460fda04966224c86af5609e2054f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_Spotlight/Assets/SpotlightStructure1.fbx using Guid(7f460fda04966224c86af5609e2054f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2f6b17f7f805fb2d555969fb9551068e') in 0.7704675 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.856324 seconds.
+  path: Assets/SpaceZeta_Spotlight/Assets/Materials/Spotlight_basecolor.png
+  artifactKey: Guid(5d1a95b9afaecba43a20cd23b5fe3d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_Spotlight/Assets/Materials/Spotlight_basecolor.png using Guid(5d1a95b9afaecba43a20cd23b5fe3d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6de2d06dd6f0355637ab76f89fa73aad') in 0.0203983 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/SpaceZeta_Spotlight/Assets/Materials/Spotlight_roughness.png
+  artifactKey: Guid(f736710ec3fd2e945943d4d91bfb8201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_Spotlight/Assets/Materials/Spotlight_roughness.png using Guid(f736710ec3fd2e945943d4d91bfb8201) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '812f11b6c1f4f9b5498de819e947374b') in 0.0087852 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/SpaceZeta_Spotlight/Assets/Materials/Spotlight_normal.png
+  artifactKey: Guid(7708fec10f0627a4b9b2270c6c5e7460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_Spotlight/Assets/Materials/Spotlight_normal.png using Guid(7708fec10f0627a4b9b2270c6c5e7460) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '70f94a43bdc058b878c9d8147659610e') in 0.0135598 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.660300 seconds.
+  path: Assets/KINERACTIVE/Textures/Buttons/StickL_Horizontal.png
+  artifactKey: Guid(c1ac5b8e1756f5046aaf4f187cf68c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KINERACTIVE/Textures/Buttons/StickL_Horizontal.png using Guid(c1ac5b8e1756f5046aaf4f187cf68c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8552499ffa8c19de65767b14e6847df1') in 0.0075402 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/KINERACTIVE/Textures/Buttons/StickR_Horizontal.png
+  artifactKey: Guid(de3ac4fc2d788fe499dc43c3d6edbc10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KINERACTIVE/Textures/Buttons/StickR_Horizontal.png using Guid(de3ac4fc2d788fe499dc43c3d6edbc10) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6f008e2d52ea534e889d3fdfc4ead3b2') in 0.0105486 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

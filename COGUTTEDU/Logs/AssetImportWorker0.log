@@ -994,3 +994,127 @@ Memory consumption went from 178.4 MB to 169.0 MB.
 Total: 12.157800 ms (FindLiveObjects: 0.837600 ms CreateObjectMapping: 0.729800 ms MarkObjects: 4.751600 ms  DeleteObjects: 5.837000 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 1256.662758 seconds.
+  path: Assets/SpaceZeta_Spotlight/Assets
+  artifactKey: Guid(d9d4f4b481d3d384489d8ce4647f7d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_Spotlight/Assets using Guid(d9d4f4b481d3d384489d8ce4647f7d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1f210fe6036d25b038ce2dfdd98e696f') in 0.0084228 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030977 seconds.
+  path: Assets/SpaceZeta_Spotlight/Assets/Spotlight.fbx
+  artifactKey: Guid(204ef55864c1e9140ac2474c00ff2d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_Spotlight/Assets/Spotlight.fbx using Guid(204ef55864c1e9140ac2474c00ff2d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bf66bc528a6e487ce9df3912a8d0d5fd') in 0.7672621 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/SpaceZeta_Spotlight/Assets/SpotlightStructure2.fbx
+  artifactKey: Guid(cc5ac08585d30a34993818822179975d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_Spotlight/Assets/SpotlightStructure2.fbx using Guid(cc5ac08585d30a34993818822179975d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cb6d0c98c77d27d3950194e9749d5e66') in 0.0178675 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.742192 seconds.
+  path: Assets/SpaceZeta_Spotlight/Assets/Materials
+  artifactKey: Guid(216d6423b8e06bc4eb502b64996c0cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_Spotlight/Assets/Materials using Guid(216d6423b8e06bc4eb502b64996c0cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '99926bebb2fc111518c91f356bfca9d4') in 0.0008634 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049859 seconds.
+  path: Assets/SpaceZeta_Spotlight/Assets/Materials/Spotlight.mat
+  artifactKey: Guid(7b09d2e28c2823e42a0756653e544774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_Spotlight/Assets/Materials/Spotlight.mat using Guid(7b09d2e28c2823e42a0756653e544774) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c8fc2d3d6c3a0b3b158f4965d786b303') in 0.026838 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/SpaceZeta_Spotlight/Assets/Materials/Spotlight_emission.png
+  artifactKey: Guid(263463898181f1a4b805a669d4717e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_Spotlight/Assets/Materials/Spotlight_emission.png using Guid(263463898181f1a4b805a669d4717e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7d7cf6aab5680070fa5679e5b1f97b61') in 0.0158832 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.691815 seconds.
+  path: Assets/KINERACTIVE/Textures/Buttons/StickL.png
+  artifactKey: Guid(3bfb217b99653b941a234482e9b4fcf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KINERACTIVE/Textures/Buttons/StickL.png using Guid(3bfb217b99653b941a234482e9b4fcf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3cef26f53ca95d3a21c99b068da69df0') in 0.0092506 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/KINERACTIVE/Textures/Buttons/StickR.png
+  artifactKey: Guid(06db6747472a13b4696a2fcc337a3697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KINERACTIVE/Textures/Buttons/StickR.png using Guid(06db6747472a13b4696a2fcc337a3697) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd35fc9258802b1301ae7eef731bd9bb6') in 0.0103218 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.253734 seconds.
+  path: Assets/SpaceZeta_Spotlight/Assets/Materials/Materials
+  artifactKey: Guid(22e7ece0e91b0784c938f981f54f718b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_Spotlight/Assets/Materials/Materials using Guid(22e7ece0e91b0784c938f981f54f718b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00bd06e2364059920c8c040e24b7c578') in 0.0008356 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062099 seconds.
+  path: Assets/SpaceZeta_Spotlight/Assets/Materials/Materials/Spotlight_basecolor.mat
+  artifactKey: Guid(9b7c9e1d2bcd14846a8496d60a3e81ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_Spotlight/Assets/Materials/Materials/Spotlight_basecolor.mat using Guid(9b7c9e1d2bcd14846a8496d60a3e81ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1090a34d66291d7d1bd461a753c1cc0a') in 0.0098466 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.439906 seconds.
+  path: Assets/KINERACTIVE/Editor/Resources/SelfInput.png
+  artifactKey: Guid(806c00abbc1538a4797e013bcf923120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KINERACTIVE/Editor/Resources/SelfInput.png using Guid(806c00abbc1538a4797e013bcf923120) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '22f30a44dec993c0e51237d9da14afc8') in 0.0083685 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.484860 seconds.
+  path: Assets/KINERACTIVE/Textures/Buttons/4ButtonCluster.png
+  artifactKey: Guid(b8696f9e8c17e6149b6f0bb96a0f421e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KINERACTIVE/Textures/Buttons/4ButtonCluster.png using Guid(b8696f9e8c17e6149b6f0bb96a0f421e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1535b9e5153dd1883a5a9baaf3d2857a') in 0.0101241 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/KINERACTIVE/Textures/Buttons/4ButtonCluster_B_Circle.png
+  artifactKey: Guid(076ebbd4877e7a34ab588b93d09ec657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KINERACTIVE/Textures/Buttons/4ButtonCluster_B_Circle.png using Guid(076ebbd4877e7a34ab588b93d09ec657) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '45b88fa2447ae5c7df172f0576cd81a8') in 0.0082105 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/KINERACTIVE/Editor/Resources/AnalogInput.png
+  artifactKey: Guid(7591fff21651b1948bdccc680874ce5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KINERACTIVE/Editor/Resources/AnalogInput.png using Guid(7591fff21651b1948bdccc680874ce5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bb52890500029336d09583906cd8ed39') in 0.0072296 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/KINERACTIVE/Editor/Resources/Audio.png
+  artifactKey: Guid(733574b6c8ef2fe49a6264d5376947cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KINERACTIVE/Editor/Resources/Audio.png using Guid(733574b6c8ef2fe49a6264d5376947cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fe48f1ae096fe643ce0a70efd6d5d901') in 0.0075451 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
